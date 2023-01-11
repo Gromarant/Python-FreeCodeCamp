@@ -93,4 +93,141 @@ Some questions from the course aren't included in this repository, because they 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/build-your-own-functions)
   </p>
   </details>
+
+   <details><summary>class 11 Loops and Iterations</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the iteration process, infinite loops and iteration with continue. 
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-11-loops-and-iterations.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/loops-and-iterations)
+  </p>
+  </details>
+  
+- <details><summary>class 12 Iterations: Definite Loops</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the for loop, in keyword and iterable variables. 
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-12-iteration-definite-loops.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-definite-loops)
+  </p>
+  </details>
+
+- <details><summary>class 13 Iterations: Loop Idioms</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the loop construction and looping to find the largest number in a set.
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-13-iteration-loops-idioms.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-loop-idioms)
+  </p>
+  </details>
+
+  - <details><summary>class 14 Iterations: More Patterns</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of counting, summing in a loop, searching using a boolean variable.
+  
+  ##### Exercise:
+  05 - 01 EX - Python for Everybody Course:  Write a program which respeactly reads numbers until the user enters "done". Once "done" is entered, print out the total, count, and average of the numbers. If the user enters anything other than a number, detect their mistake using try and except and print an error message and skip to the next number.
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-14-iteration-more-patterns.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-more-patterns)
+  </p>
+  </details>
+
+- <details><summary>class 15 Strings in Python</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the string data type, len() function and looping through strings.
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-15-strings-in-python.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
+  </p>
+  </details>
+
+- <details><summary>class 16 Intermediate Strings</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the function creation process, how to define them, arguments, parameters and return values. 
+  
+  ##### Exercise:
+  06 - 05 EX - Python for Everybody Course: Take the following Python code that storesa string:
+  
+  str = 'X-DSPAM-Condidence: 0.8475 '
+
+  Use find and string slicing to extract the portion of the string after the colon character and then use the float function to convert the extracted string into a   floating point number
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-16-intermediate-strings.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings)
+  </p>
+  </details>
+
+- <details><summary>class 18 Files as a Sequence</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of file treatment as a sequence and how to read files and their content.
+  
+  ##### Exercise:
+  07 - 01 EX - Python for Everybody Course: Write a program to read through a file and print the contents of the file ( line by line ) all in upper case.
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-18-files-as-a-sequence.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence)
+  </p>
+  </details>
+
+- <details><summary>class 19 Python Lists</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the algorithms, data structures, collections, lists and range() function. 
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-19-python-lists.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-lists)
+  </p>
+  </details>
+
+- <details><summary>class 21 Strings and Lists</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the uses of the lists of strings and the double split pattern. 
+  
+  ##### Exercise:
+  08 - EX - Python for Everybody Course: debugging code.
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-21-strings-and-lists.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists)
+  </p>
+  </details>
+
+- <details><summary>class 22 Python Dictionaries</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the dictionaries and their differences with the lists.  
+  
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-22-python-dictionaries.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-dictionaries)
+  </p>
+  </details>
+
+- <details><summary>class 23 Dictionaries: Common Applications</summary>
+  <p>
+
+  #### Class Description:
+  Explanation of the common applications of dictionaries, histograms and get() method. 
+ 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-23-dictionaries-common-applications.py) | 
+  [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications)
+  </p>
+  </details>
 </details>

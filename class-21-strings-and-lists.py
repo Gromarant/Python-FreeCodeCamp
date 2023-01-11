@@ -1,11 +1,12 @@
-han = open(r'file-path')
+handle = open('mbox-short.txt')
+print( handle )
 
-for line in han : 
+for line in handle : 
     line = line.rstrip()
     words = line.split()
-    if len(words) < 2 or words[0] != '#' :
+    if len(words) < 3 or words[0] != 'From' :
         continue
-    print( words[1] )
+    print( words[2] )
 
 
 #----- Question: What does n equal in this code?
