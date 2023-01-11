@@ -21,7 +21,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Introduction to Python programming, syntax errors and python instructions
 
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-3-introduction-python-as-a-language.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-3-introduction-python-as-a-language.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-python-as-a-language)
   </p>
   </details>
@@ -32,7 +32,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the learning process, reserved words, sentences, scripts and program steps or flow 
 
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-4-introduction-elements-of-python.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-4-introduction-elements-of-python.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/introduction-elements-of-python)
   </p>
   </details>
@@ -48,7 +48,7 @@ Some questions from the course aren't included in this repository, because they 
   <br>
   02 - 03 EX - Python for Everybody Course: Write a program to prompt the user for hours and rate per hour to compute gross pay.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-6-intermediate-expressions.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-6-intermediate-expressions.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
   </p>
   </details>
@@ -59,7 +59,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the if statement, conditional steps, comparison operators, indentation and nested conditionals.
 
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-7-conditional-execution.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-7-conditional-execution.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/conditional-execution)
   </p>
   </details>
@@ -75,7 +75,7 @@ Some questions from the course aren't included in this repository, because they 
   <br><br>
   03 - 02 EX - Python for Everybody Course: Rewrite your pay program usin try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program. The following shows two executions of the program.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-8-more-conditional-structures.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-8-more-conditional-structures.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures)
   </p>
   </details>
@@ -89,18 +89,18 @@ Some questions from the course aren't included in this repository, because they 
   ##### Exercise:
   04 - 06 EX - Python for Everybody Course: Rewrite your pay computation with time-and-a-half for overtime and create a funtion called computepay which takes two parameters ( hours and rate).
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-10-build-your-own-functions.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-10-build-your-own-functions.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/build-your-own-functions)
   </p>
   </details>
 
-   <details><summary>class 11 Loops and Iterations</summary>
+- <details><summary>class 11 Loops and Iterations</summary>
   <p>
 
   #### Class Description:
   Explanation of the iteration process, infinite loops and iteration with continue. 
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-11-loops-and-iterations.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-11-loops-and-iterations.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/loops-and-iterations)
   </p>
   </details>
@@ -111,7 +111,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the for loop, in keyword and iterable variables. 
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-12-iteration-definite-loops.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-12-iteration-definite-loops.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-definite-loops)
   </p>
   </details>
@@ -122,12 +122,12 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the loop construction and looping to find the largest number in a set.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-13-iteration-loops-idioms.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-13-iteration-loops-idioms.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-loop-idioms)
   </p>
   </details>
 
-  - <details><summary>class 14 Iterations: More Patterns</summary>
+- <details><summary>class 14 Iterations: More Patterns</summary>
   <p>
 
   #### Class Description:
@@ -136,7 +136,7 @@ Some questions from the course aren't included in this repository, because they 
   ##### Exercise:
   05 - 01 EX - Python for Everybody Course:  Write a program which respeactly reads numbers until the user enters "done". Once "done" is entered, print out the total, count, and average of the numbers. If the user enters anything other than a number, detect their mistake using try and except and print an error message and skip to the next number.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-14-iteration-more-patterns.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-14-iteration-more-patterns.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/iterations-more-patterns)
   </p>
   </details>
@@ -147,7 +147,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the string data type, len() function and looping through strings.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-15-strings-in-python.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-15-strings-in-python.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-in-python)
   </p>
   </details>
@@ -165,7 +165,7 @@ Some questions from the course aren't included in this repository, because they 
 
   Use find and string slicing to extract the portion of the string after the colon character and then use the float function to convert the extracted string into a   floating point number
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-16-intermediate-strings.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-16-intermediate-strings.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-strings)
   </p>
   </details>
@@ -179,7 +179,7 @@ Some questions from the course aren't included in this repository, because they 
   ##### Exercise:
   07 - 01 EX - Python for Everybody Course: Write a program to read through a file and print the contents of the file ( line by line ) all in upper case.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-18-files-as-a-sequence.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-18-files-as-a-sequence.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence)
   </p>
   </details>
@@ -190,7 +190,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the algorithms, data structures, collections, lists and range() function. 
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-19-python-lists.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-19-python-lists.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-lists)
   </p>
   </details>
@@ -204,7 +204,7 @@ Some questions from the course aren't included in this repository, because they 
   ##### Exercise:
   08 - EX - Python for Everybody Course: debugging code.
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-21-strings-and-lists.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-21-strings-and-lists.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists)
   </p>
   </details>
@@ -215,7 +215,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the dictionaries and their differences with the lists.  
   
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-22-python-dictionaries.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-22-python-dictionaries.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/python-dictionaries)
   </p>
   </details>
@@ -226,7 +226,7 @@ Some questions from the course aren't included in this repository, because they 
   #### Class Description:
   Explanation of the common applications of dictionaries, histograms and get() method. 
  
-  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-23-dictionaries-common-applications.py) | 
+  [Go to exercise repo](https://github.com/Gromarant/Python-FreeCodeCamp/blob/main/class-exercises/class-23-dictionaries-common-applications.py) | 
   [Go to class](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications)
   </p>
   </details>
